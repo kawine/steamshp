@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/*
+hh-rlhf/
+.env
+setenv.sh
+t5x/
+**/__pycache__/
+logs/
+**/.DS_Store
+**/.log
