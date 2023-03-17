@@ -212,5 +212,5 @@ def eval_regress(model_fn, data_prefix="combined_"):
 
 
 if __name__ == "__main__":
-    #train()
-    eval("/nlp/scr/kawin/models/flan-t5-large-rerun")
+    train()
+    # eval("/nlp/scr/kawin/models/flan-t5-large-rerun")
